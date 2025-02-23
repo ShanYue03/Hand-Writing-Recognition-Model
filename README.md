@@ -19,7 +19,7 @@ The notebook provides a step-by-step guide to building and training a neural net
 
 7. Visualizing Results: The training and validation accuracy and loss are plotted to visualize the model's performance over epochs.
 
-## Key Features
+## 🛠️ Key Features
 1. Data Preprocessing: The MNIST dataset is normalized to have pixel values between 0 and 1, which helps in faster convergence during training.
 
 2. Model Architecture: The neural network model includes a hidden layer with dropout to prevent overfitting.
@@ -30,7 +30,7 @@ The notebook provides a step-by-step guide to building and training a neural net
 
 5. Prediction Visualization: The notebook demonstrates how to make predictions and visualize the results, including plotting a test image with its predicted label.
 
-## Requirements
+## 🧰 Requirements
 To run the notebook, you need the following Python libraries installed:
 
 - TensorFlow
